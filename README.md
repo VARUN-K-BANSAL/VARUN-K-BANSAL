@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 #### Find Me Over Web
-Linkedin -- https://www.linkedin.com/in/varun-bansal-819aab200/
-Instagram -- https://www.instagram.com/varunbansal326/
-CodeChef -- https://www.codechef.com/users/varun2610
+Linkedin -- https://www.linkedin.com/in/varun-bansal-819aab200/ <br>
+Instagram -- https://www.instagram.com/varunbansal326/ <br>
+CodeChef -- https://www.codechef.com/users/varun2610 <br>
