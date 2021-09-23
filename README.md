@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Varun%20Kumar%20Bansal-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-bansal-819aab200/)](https://www.linkedin.com/in/varun-bansal-819aab200/) <br>
 
 ## About Me -
-- I am Varun Kumar Bansal, sophomore at Indian Institute of Information Technology, Sri City in CSE department
+- I am Varun Kumar Bansal, sophomore at [Indian Institute of Information Technology, Sri City](http://www.iiits.ac.in/) in CSE department.
 - I am interested in learning Artificial Intelligence and Machine Learning as well as Blockchain Technology
 
 ## Experience
