@@ -1,5 +1,3 @@
-## Hi there🖐 , Welcome to my coding World. I am trying to do my best here😀😀
-
 <!--
 **VARUN-K-BANSAL/VARUN-K-BANSAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Find Me Over Web
-Linkedin -- https://www.linkedin.com/in/varun-bansal-819aab200/ <br>
-Instagram -- https://www.instagram.com/varunbansal326/ <br>
-CodeChef -- https://www.codechef.com/users/varun2610 <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=27&width=900&lines=Welcome+To+Varun+Kumar+Bansal%27s+Github+Profile..)](https://git.io/typing-svg)
+
+
+[![Gmail Badge](https://img.shields.io/badge/-varunbansal326@gmail.com-c14438?style=square&logo=Gmail&logoColor=white&link=mailto:varunbansal326@gmail.com)](mailto:varunbansal326@gmail.com) <br>
+[![Linkedin Badge](https://img.shields.io/badge/-Varun%20Kumar%20Bansal-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-bansal-819aab200/)](https://www.linkedin.com/in/varun-bansal-819aab200/) <br>
+
+## About Me -
+- I am Varun Kumar Bansal, sophomore at Indian Institute of Information Technology, Sri City in CSE department
+- I am interested in learning Artificial Intelligence and Machine Learning as well as Blockchain Technology
+
+## Experience
+- Contributor in [GirlScript Winter Of Code](https://gwoc.girlscript.tech/), Which is the world largest multilingual content library.
+
+
+## GitHub Statistics
+![Varun github stats](https://github-readme-stats.vercel.app/api?username=VARUN-K-BANSAL&show_icons=true&hide_border=true)
+<br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=VARUN-K-BANSAL.VARUN-K-BANSAL)
