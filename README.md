@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=47ADB3&vCenter=true&width=540&height=46&lines=Welcome+to+Varun+Kumar+Bansal+GitHub+Profile...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=47ADB3&vCenter=true&width=540&height=46&lines=Welcome+to+Varun+Kumar+Bansal%27s+GitHub+Profile...)](https://git.io/typing-svg)
 
 
 [![Gmail Badge](https://img.shields.io/badge/-varunbansal326@gmail.com-c14438?style=square&logo=Gmail&logoColor=white&link=mailto:varunbansal326@gmail.com)](mailto:varunbansal326@gmail.com) <br>
