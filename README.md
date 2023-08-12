@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) -->
 
 ## Experience
+- Subject Matter Expert Intern at Scaler
 - Technical Developer Intern at [KefiStylo Content Axis Pvt. Ltd.](https://kefistylo.com/)
 - Contributor in [GirlScript Winter Of Code](https://gwoc.girlscript.tech/), Which is the world largest multilingual content library.
 
