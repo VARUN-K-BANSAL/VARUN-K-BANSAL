@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <br>
 
 <div style="display: flex; flex-direction: row"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=VARUN-K-BANSAL&show_icons=true&theme=gotham" width="48%" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=VARUN-K-BANSAL&show_icons=true&theme=gotham" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARUN-K-BANSAL&theme=gotham" width="50.5%" />
 </div>
 
