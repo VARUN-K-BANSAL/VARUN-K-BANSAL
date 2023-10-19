@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=47ADB3&vCenter=true&width=540&height=46&lines=Welcome+to+Varun+Kumar+Bansal%27s+GitHub+Profile...)](https://git.io/typing-svg)
 
-[![Youtube Badge](https://img.shields.io/badge/-Varun's%20eLearning-ff0000?style=square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCOKSg34Y2JEvCphJ8jFyajQ)](https://www.youtube.com/channel/UCOKSg34Y2JEvCphJ8jFyajQ)
+<!-- [![Youtube Badge](https://img.shields.io/badge/-Varun's%20eLearning-ff0000?style=square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCOKSg34Y2JEvCphJ8jFyajQ)](https://www.youtube.com/channel/UCOKSg34Y2JEvCphJ8jFyajQ) -->
 [![Gmail Badge](https://img.shields.io/badge/-varunbansal326@gmail.com-c14438?style=square&logo=Gmail&logoColor=white&link=mailto:varunbansal326@gmail.com)](mailto:varunbansal326@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Varun%20Kumar%20Bansal-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-bansal-819aab200/)](https://www.linkedin.com/in/varun-bansal-819aab200/)
+[![Linkedin Badge](https://img.shields.io/badge/-Varun%20Kumar%20Bansal-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-k-bansal/)](https://www.linkedin.com/in/varun-k-bansal/)
 [![Facebook Badge](https://img.shields.io/badge/-Varun%20Bansal-4267ff?style=square&logo=FaceBook&logoColor=white&link=https://www.facebook.com/profile.php?id=100071776040703)](https://www.facebook.com/profile.php?id=100071776040703)
 [![Instagram Badge](https://img.shields.io/badge/-varunbansal210-fd3958?style=square&logo=Instagram&logoColor=white&link=https://www.instagram.com/varunbansal210/)](https://www.instagram.com/varunbansal210/)
 ## About Me -
